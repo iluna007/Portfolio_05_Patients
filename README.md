@@ -1,4 +1,6 @@
 # React + TypeScript + Vite
+The repository "Portfolio_09_Patients" is a project set up with React, TypeScript, and Vite, designed for managing patient tracking in a veterinary context. It provides a basic interface to add, view, and update patient records, utilizing modern development practices, including ESLint for code quality and Vite for fast development refreshes. There is currently no additional project description or documentation.
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
